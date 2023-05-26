@@ -27,3 +27,4 @@ def get_global_stats(team):
 
 def get_table_data():
     return 0
+#cambio
